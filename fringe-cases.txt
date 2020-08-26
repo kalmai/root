@@ -1,0 +1,14 @@
+Driver Dan
+Driver Lauren
+Driver Kumi
+Driver 
+Driver Nicholas
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Trip Lauren 12:01 13:16 42.0
+Trip Lauren 12:01 13:01 101.0
+Trip Kumi 12:01 13:01 -1.0
+Driver Zach
+Driver Dan
+Trip Kumi 12:01 12:02 -1.0
+Trip
